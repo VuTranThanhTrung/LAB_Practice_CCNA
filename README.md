@@ -1,4 +1,4 @@
-# Lab 1 – VLAN, Routing, DHCP, NAT, STP
+# Lab  – VLAN, Routing, DHCP, NAT, STP
 
 ## 🎯 Mục tiêu
 - Cấu hình VLAN, trunk, và access port.
