@@ -8,7 +8,9 @@
 - NAT cho phép các mạng nội bộ truy cập Internet.
 - STP với đường dự phòng theo yêu cầu.
 
-- 
+## 🖥️ Topology
+<img width="1506" height="623" alt="image" src="https://github.com/user-attachments/assets/a2d40270-c255-4d7d-b27f-dd3699a72b4f" />
+
 ## 📋 Bảng địa chỉ IP chi tiết
 
 | Thiết bị       | Interface   | Địa chỉ IP         | Subnet Mask       | VLAN / Mạng liên quan           |
